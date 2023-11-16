@@ -55,4 +55,3 @@ def scikitlearn_LR():
 if __name__ == "__main__":
     main()
     scikitlearn_LR()
-    print("Το LinearRegression που υλοποιήσα φαίνεται ότι παράγει πολύ μικρά σφάλματα στο Mean RMSE,\nκαι ένα πολύ μικρό αλλά όχι ακριβώς μηδενικό Standard Deviation of RMSE.\nΕνώ το κανονικό LinearRegression από τη βιβλιοθήκη scikit-learn παράγει πολύ παρόμοια αλλά όχι τα ίδια ακριβώς αποτελέσματα.")
