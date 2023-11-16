@@ -1,7 +1,7 @@
 import numpy as np
-from linear_regression import LinearRegression
 from sklearn.datasets import fetch_california_housing
 from sklearn.model_selection import train_test_split
+from Classes.linear_regression import LinearRegression
 
 
 def test_lr():
