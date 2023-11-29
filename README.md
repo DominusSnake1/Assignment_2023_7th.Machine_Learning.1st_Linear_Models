@@ -47,5 +47,4 @@ Mean RMSE: 0.0876
 Standard Deviation of RMSE: 0.0321
 ```
 
-The results I get from the `LinearRegression` compared to the `scikit-learn/LinearRegression`
-have small differences beyond the eighth decimal number.
+The results I get from the `LinearRegression` compared to the `scikit-learn/LinearRegression` have small differences beyond the eighth decimal number.
